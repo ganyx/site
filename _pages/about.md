@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Group of Dr Yixinag Gan"
+title: "Research Group of Dr Yixiang Gan"
 author_profile: true
 redirect_from: 
   - /about/
