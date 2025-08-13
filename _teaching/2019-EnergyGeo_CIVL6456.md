@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate coursework"
 permalink: /teaching/2019-EnergyGeo_CIVL6456
 venue: "School of Civil Engineering, The University of Sydney"
-date: 2019
+date: 2019-01-01
 location: "Sydney, Australia"
 ---
 
