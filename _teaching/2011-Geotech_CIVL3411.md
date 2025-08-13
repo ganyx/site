@@ -1,5 +1,5 @@
 ---
-title: "Geotechnical Engineering"
+title: "Geotechnical Engineering (CIVL3411)"
 collection: teaching
 type: "Undergraduate coursework"
 permalink: /teaching/2011-Geotech_CIVL3411

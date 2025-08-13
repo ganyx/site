@@ -1,5 +1,5 @@
 ---
-title: "Energy Geotechnics"
+title: "Energy Geotechnics (CIVL6456)"
 collection: teaching
 type: "Postgraduate coursework"
 permalink: /teaching/2019-EnergyGeo_CIVL6456
