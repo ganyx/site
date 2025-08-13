@@ -16,9 +16,13 @@ author_profile: true
 ### 2025
 
 [167]* Zhong, H., Wang, Z., Suo, S., Mamizadeh Janghour, L., Akhavan, B., & Gan, Y. (2025). Tunable Spontaneous Droplet Motion in Flexible Channels. Langmuir, 41, 7355−7363. [PDF](/files/_pubs/167_Langmuir_2025.pdf), [Sppl. Cover](/files/_pubs/167_Langmuir_Cover.jpg)
+
 [166] Ji, S., Nguyen, Q. D., Gan, Y., & Lei, C. (2025). A numerical study of blockage and inclination effects on natural convection in a uniformly heated air flow channel. International Journal of Thermal Sciences, 212, 109783. [PDF](/files/_pubs/166_IJTS_2025.pdf)
+
 [165] Yang, S., Suo, S., Gan, Y., Bagheri, S., Wang, L., & Revstedt, J. (2025). Experimental study on hysteresis during cyclic injection in hierarchical porous media. Water Resources Research, 61(3), e2024WR038923. [PDF](/files/_pubs/165_WRR_2025.pdf)
+
 [164]* Jaggannagari, S. R., Kan, W. H., Chiu, L. N., Proust, G., Huang, A., Gan, Y., & Annabattula, R. K. (2025). Numerical and experimental analysis of powder bed homogeneity through multi-layer spreading in additive manufacturing. Additive Manufacturing, 97, 104571. [PDF](/files/_pubs/164_AM_2025.pdf)
+
 [163] Wang, Z., Sun, R., Gan, Y., Pereira, J. M., McCue, S. W., & Sauret, E. (2025). Controlled Haines jumps in a dual-channel multiphase system: inferring fluid properties from the dynamics of interface motion. Journal of Fluid Mechanics, 1002, A40. [PDF](/files/_pubs/163_JFM_2025.pdf)
 
 
