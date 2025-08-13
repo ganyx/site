@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (intensive mode)"
 permalink: /teaching/2022-Statics_CIVL1802
 venue: "School of Civil Engineering, The University of Sydney"
-date: Since 2022
+date: 2022
 location: "Sydney, Australia"
 ---
 

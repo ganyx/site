@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate coursework"
 permalink: /teaching/2011-Geotech_CIVL3411
 venue: "School of Civil Engineering, The University of Sydney"
-date: 2011-2015
+date: 2011
 location: "Sydney, Australia"
 ---
 
