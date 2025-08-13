@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Graduate Certificate in Educational Studies (Higher Education), The University of Sydney, Australia, 04/2015
+* Doctor of Engineering (awarded with *summa cum laude*), Universität Karlsruhe, Germany, 11/2008
+* Master of Engineering (with honour), Xi’an Jiaotong University, China, 05/2005
+* Bachelor of Engineering and Bachelor of Business Administration, Xi’an Jiaotong University, China, 06/2002
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Professor, The University of Sydney. 2021 – 
+* Associate Head of School (External Engagement), The University of Sydney. 2023 –
+* Research Integrity Advisor, 2018 – 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Post Roles
+======
+* Deputy Director, The University of Sydney Nano Institute (Sydney Nano), 2022 – 2023
+* Director of IT (Civil), 2020 – 2022
+* SOAR Fellow, The University of Sydney. 2017 – 2018
+* Senior Lecturer, The University of Sydney. 2017 – 2020
+* Lecturer, The University of Sydney. 07/2013 – 12/2016
+* ARC DECRA Fellow, The University of Sydney. 2013 – 2015
+* Research Fellow, The University of Sydney. 05/2010 - 12/2012
+* Research Fellow, Karlsruhe Institute of Technology (KIT). 06/2008 - 04/2010
+* PhD Candidate, Forschungszentrum Karlsruhe GmbH. 06/2005 - 06/2008
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Visiting Positions (funded stays)
+======
+* Inivited Visiting Researcher, Tsinghua Univeristy, China. 07/2025 – 10/2025
+* Visiting Researcher, Mathematical Institute, University of Oxford, UK. 12/2019 – 02/2020
+* AISRF Fellow, IIT Madras, India. 02/2019 - 04/2019
+* Invited Researcher, Lab Navier, ENPC, France. 05/2017 – 07/2017
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Service and leadership
+## ======
+## * Currently signed in to 43 different slack teams
