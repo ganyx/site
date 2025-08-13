@@ -15,50 +15,50 @@ author_profile: true
 
 ### 2025
 
-[167]* Zhong, H., Wang, Z., Suo, S., Mamizadeh Janghour, L., Akhavan, B., & Gan, Y. (2025). Tunable Spontaneous Droplet Motion in Flexible Channels. Langmuir, 41, 7355−7363. [PDF](/files/_pubs/167_Langmuir_2025.pdf), [Sppl. Cover](/files/_pubs/167_Langmuir_Cover.jpg)
+[167]* Zhong, H., Wang, Z., Suo, S., Mamizadeh Janghour, L., Akhavan, B., & Gan, Y. (2025). Tunable Spontaneous Droplet Motion in Flexible Channels. Langmuir, 41, 7355−7363. [PDF](/files/pubs/167_Langmuir_2025.pdf), [Sppl. Cover](/files/pubs/167_Langmuir_Cover.jpg)
 
-[166] Ji, S., Nguyen, Q. D., Gan, Y., & Lei, C. (2025). A numerical study of blockage and inclination effects on natural convection in a uniformly heated air flow channel. International Journal of Thermal Sciences, 212, 109783. [PDF](/files/_pubs/166_IJTS_2025.pdf)
+[166] Ji, S., Nguyen, Q. D., Gan, Y., & Lei, C. (2025). A numerical study of blockage and inclination effects on natural convection in a uniformly heated air flow channel. International Journal of Thermal Sciences, 212, 109783. [PDF](/files/pubs/166_IJTS_2025.pdf)
 
-[165] Yang, S., Suo, S., Gan, Y., Bagheri, S., Wang, L., & Revstedt, J. (2025). Experimental study on hysteresis during cyclic injection in hierarchical porous media. Water Resources Research, 61(3), e2024WR038923. [PDF](/files/_pubs/165_WRR_2025.pdf)
+[165] Yang, S., Suo, S., Gan, Y., Bagheri, S., Wang, L., & Revstedt, J. (2025). Experimental study on hysteresis during cyclic injection in hierarchical porous media. Water Resources Research, 61(3), e2024WR038923. [PDF](/files/pubs/165_WRR_2025.pdf)
 
-[164]* Jaggannagari, S. R., Kan, W. H., Chiu, L. N., Proust, G., Huang, A., Gan, Y., & Annabattula, R. K. (2025). Numerical and experimental analysis of powder bed homogeneity through multi-layer spreading in additive manufacturing. Additive Manufacturing, 97, 104571. [PDF](/files/_pubs/164_AM_2025.pdf)
+[164]* Jaggannagari, S. R., Kan, W. H., Chiu, L. N., Proust, G., Huang, A., Gan, Y., & Annabattula, R. K. (2025). Numerical and experimental analysis of powder bed homogeneity through multi-layer spreading in additive manufacturing. Additive Manufacturing, 97, 104571. [PDF](/files/pubs/164_AM_2025.pdf)
 
-[163] Wang, Z., Sun, R., Gan, Y., Pereira, J. M., McCue, S. W., & Sauret, E. (2025). Controlled Haines jumps in a dual-channel multiphase system: inferring fluid properties from the dynamics of interface motion. Journal of Fluid Mechanics, 1002, A40. [PDF](/files/_pubs/163_JFM_2025.pdf)
+[163] Wang, Z., Sun, R., Gan, Y., Pereira, J. M., McCue, S. W., & Sauret, E. (2025). Controlled Haines jumps in a dual-channel multiphase system: inferring fluid properties from the dynamics of interface motion. Journal of Fluid Mechanics, 1002, A40. [PDF](/files/pubs/163_JFM_2025.pdf)
 
 
 ### 2024
 
-[162]* Wang, X., Zhai, C., & Gan, Y. (2024). Effective Permittivity of Compacted Granular Materials: Effects of Interfacial Polarization and Pore-filling Fluids. Theoretical and Applied Mechanics Letters, 14, 100525. [PDF](/files/_pubs/162_TAML_2025.pdf)
+[162]* Wang, X., Zhai, C., & Gan, Y. (2024). Effective Permittivity of Compacted Granular Materials: Effects of Interfacial Polarization and Pore-filling Fluids. Theoretical and Applied Mechanics Letters, 14, 100525. [PDF](/files/pubs/162_TAML_2025.pdf)
 
-[161]* Chen, Y., Suo, S., Dong, M., Zhong, H., Wei, D., & Gan, Y. (2024). Effects of particle density and fluid properties on mono-dispersed granular flows in a rotating drum. Physics of Fluids, 36(10). [PDF](/files/_pubs/161_PoF_2024.pdf)
+[161]* Chen, Y., Suo, S., Dong, M., Zhong, H., Wei, D., & Gan, Y. (2024). Effects of particle density and fluid properties on mono-dispersed granular flows in a rotating drum. Physics of Fluids, 36(10). [PDF](/files/pubs/161_PoF_2024.pdf)
 
-[160] Wei, D., Zhai, C., Song, H., Hurley, R., Huang, S., Gan, Y., & Xu, M. (2024). Frictional contacts between rough grains with fractal morphology. Journal of Geophysical Research: Solid Earth, 129(10), e2023JB028361. [PDF](/files/_pubs/160_JGRSE_2024.pdf)
+[160] Wei, D., Zhai, C., Song, H., Hurley, R., Huang, S., Gan, Y., & Xu, M. (2024). Frictional contacts between rough grains with fractal morphology. Journal of Geophysical Research: Solid Earth, 129(10), e2023JB028361. [PDF](/files/pubs/160_JGRSE_2024.pdf)
 
-[159] Wang, Z., Ong, L. J. Y., Gan, Y., Pereira, J. M., Zhang, J., Toh, Y. C., & Sauret, E. (2024). PoroFluidics: Deterministic fluid control in porous microfluidics. Lab on a Chip. 24 (17), 4050-4059. [PDF](/files/_pubs/159_LabChip_2024.pdf), [Back Cover](/files/_pubs/159_LabonChip_BackCover.pdf)
+[159] Wang, Z., Ong, L. J. Y., Gan, Y., Pereira, J. M., Zhang, J., Toh, Y. C., & Sauret, E. (2024). PoroFluidics: Deterministic fluid control in porous microfluidics. Lab on a Chip. 24 (17), 4050-4059. [PDF](/files/pubs/159_LabChip_2024.pdf), [Back Cover](/files/pubs/159_LabonChip_BackCover.pdf)
 
-[158] Suo, S., O’Kiely, D., Liu, M., & Gan, Y. (2024). Geometry effects on interfacial dynamics of gas‐driven drainage in a gradient capillary. Water Resources Research, 60(9), e2023WR036766. [DOI](/files/_pubs/158_WRR_2024.pdf)
+[158] Suo, S., O’Kiely, D., Liu, M., & Gan, Y. (2024). Geometry effects on interfacial dynamics of gas‐driven drainage in a gradient capillary. Water Resources Research, 60(9), e2023WR036766. [DOI](/files/pubs/158_WRR_2024.pdf)
 
-[157] Wu, J., Gan, Y., Huang, P., & Shen, L. (2024). A coarse-grained approach to modeling gas transport in swelling porous media. International Journal of Rock Mechanics and Mining Sciences, 183, 105918. [PDF](/files/_pubs/157_IJRMMS_2024.pdf)
+[157] Wu, J., Gan, Y., Huang, P., & Shen, L. (2024). A coarse-grained approach to modeling gas transport in swelling porous media. International Journal of Rock Mechanics and Mining Sciences, 183, 105918. [PDF](/files/pubs/157_IJRMMS_2024.pdf)
 
-[156] Wu, J., Gan, Y., Huang, P., & Shen, L. (2024). CO2 transport through swelling organic-rich nanoporous media: Insights on gas permeability from coarse-grained pore-scale simulations. Journal of Cleaner Production, 469, 143253. [PDF](/files/_pubs/156_JCP_2024.pdf)
+[156] Wu, J., Gan, Y., Huang, P., & Shen, L. (2024). CO2 transport through swelling organic-rich nanoporous media: Insights on gas permeability from coarse-grained pore-scale simulations. Journal of Cleaner Production, 469, 143253. [PDF](/files/pubs/156_JCP_2024.pdf)
 
-[155]* Naumann, J., Müller, M., Bohn, N., Binder, J. R., Kamlah, M., & Gan, Y. (2024). Uncovering Ionic Transport Paths within Hierarchically Structured Battery Electrodes. ACS Applied Energy Materials, 7, 4786−4793. [PDF](/files/_pubs/155_ACSAEM_2024.pdf)
+[155]* Naumann, J., Müller, M., Bohn, N., Binder, J. R., Kamlah, M., & Gan, Y. (2024). Uncovering Ionic Transport Paths within Hierarchically Structured Battery Electrodes. ACS Applied Energy Materials, 7, 4786−4793. [PDF](/files/pubs/155_ACSAEM_2024.pdf)
 
-[154] Huang, Y., Löschke, S., Gan, Y., & Proust, G. (2024). Interrelations between Printing Patterns and Residual Stress in Fused Deposition Modelling for the 4D Printing of Acrylonitrile Butadiene Styrene and Wood–Plastic Composites. Journal of Manufacturing and Materials Processing, 8(2), 77. [PDF](/files/_pubs/154_JMMP_2024.pdf)
+[154] Huang, Y., Löschke, S., Gan, Y., & Proust, G. (2024). Interrelations between Printing Patterns and Residual Stress in Fused Deposition Modelling for the 4D Printing of Acrylonitrile Butadiene Styrene and Wood–Plastic Composites. Journal of Manufacturing and Materials Processing, 8(2), 77. [PDF](/files/pubs/154_JMMP_2024.pdf)
 
-[153] Huang, S., Wei, D., Han, W., Song, H., Song, S., Gan, Y., Zhai, C. and Xu, M., In-Situ Measurements of Contact Evolution for Fractal Rough Surfaces Under Normal Compression. International Journal of Solids and Structures, 297, 112841. [PDF](/files/_pubs/153_IJSS_2024.pdf)
+[153] Huang, S., Wei, D., Han, W., Song, H., Song, S., Gan, Y., Zhai, C. and Xu, M., In-Situ Measurements of Contact Evolution for Fractal Rough Surfaces Under Normal Compression. International Journal of Solids and Structures, 297, 112841. [PDF](/files/pubs/153_IJSS_2024.pdf)
 
-[152]* Rajan, A., Gan, Y., Reddy, K.S. (2024) Performance assessment of phase change material-based thermal energy storage. Journal of Energy Storage, 87, 111424. [PDF](/files/_pubs/152_JES_2024.pdf)
+[152]* Rajan, A., Gan, Y., Reddy, K.S. (2024) Performance assessment of phase change material-based thermal energy storage. Journal of Energy Storage, 87, 111424. [PDF](/files/pubs/152_JES_2024.pdf)
 
-[151]* Zhong, H., Wang, Z., Zhang, Y., Suo, S., Hong, Y., Wang, L., & Gan, Y. (2024). Gas storage in geological formations: A comparative review on carbon dioxide and hydrogen storage. Materials Today Sustainability, 26, 100720. [PDF](/files/_pubs/151_MTS_2024.pdf)
+[151]* Zhong, H., Wang, Z., Zhang, Y., Suo, S., Hong, Y., Wang, L., & Gan, Y. (2024). Gas storage in geological formations: A comparative review on carbon dioxide and hydrogen storage. Materials Today Sustainability, 26, 100720. [PDF](/files/pubs/151_MTS_2024.pdf)
 
-[150] Zhao, H., Li, W., Gan, Y., Mahmood, A. H., Zhao, X., Wang, K. (2024). Nano-and Microscopic Investigation on the Strengthening Mechanism of ITZs Using Waste Glass Powder in Modeled Aggregate Concrete. Journal of Materials in Civil Engineering, 36(4), 04024007. [PDF](/files/_pubs/150_JMCE_2024.pdf)
+[150] Zhao, H., Li, W., Gan, Y., Mahmood, A. H., Zhao, X., Wang, K. (2024). Nano-and Microscopic Investigation on the Strengthening Mechanism of ITZs Using Waste Glass Powder in Modeled Aggregate Concrete. Journal of Materials in Civil Engineering, 36(4), 04024007. [PDF](/files/pubs/150_JMCE_2024.pdf)
 
 ### 2023
 
-[149] Liu, Q., Ge, R., Li, C., Li, Q., Gan, Y. (2023). Digital design and additive manufacturing of structural materials in electrochemical and thermal energy storage systems: a review. Virtual and Physical Prototyping, 18(1), e2273949. [PDF](/files/_pubs/149_NVPP_2023.pdf)
+[149] Liu, Q., Ge, R., Li, C., Li, Q., Gan, Y. (2023). Digital design and additive manufacturing of structural materials in electrochemical and thermal energy storage systems: a review. Virtual and Physical Prototyping, 18(1), e2273949. [PDF](/files/pubs/149_NVPP_2023.pdf)
 
-[148]* Dong, M., Wang, Z., Marks, B., Chen, Y., Gan, Y. (2023). Partially Saturated Granular Flow in a Rotating Drum: The Role of Cohesion. Physics of Fluids, 35, 113302. [PDF](/files/_pubs/148_POF_2023.pdf)
+[148]* Dong, M., Wang, Z., Marks, B., Chen, Y., Gan, Y. (2023). Partially Saturated Granular Flow in a Rotating Drum: The Role of Cohesion. Physics of Fluids, 35, 113302. [PDF](/files/pubs/148_POF_2023.pdf)
 
 [147] Deng, P., Liu, Y., Liu, Y., Li, Y., Wu, R., Meng, L., Liang, K., Gan, Y., Qiao, F., Liu, N., Kang, Z. (2023). Microwave Regenerable Nickel, Zinc Co-doped Nitrogen-Coordinated Porous Carbon Catalyst for Nitrogen Fixation. ACS Applied Materials & Interfaces, 15(38), 44809-44819. [PDF, DOI]
 
@@ -344,33 +344,33 @@ author_profile: true
 
 [14] Choi, I. S., Gan, Y., Kaufmann, D., Kraft, O., Schwaiger, R. (2012) Measurement of Young’s modulus of anisotropic materials using microcompression testing. Journal of Materials Research, 27(21), 2752-2759. [DOI, PDF]
 
-[13] Ying, A., Reimann, J., Boccaccini, L., Enoeda, M., Kamlah, M., Knitter, R., Gan, Y., van der Laan, J., Magielsen, L., Di Maio, P., Dell’Orco, G., Annabattula, R. Van Lew, J., Tanigawa, H., van Til, S. (2012) Status of ceramic breeder pebble bed thermo-mechanics R&D and impact on breeder material mechanical strength. Fusion Engineering and Design, 87(7), 1130-1137. (Invited) [PDF](/files/_pubs/012_FED_2012.pdf)
+[13] Ying, A., Reimann, J., Boccaccini, L., Enoeda, M., Kamlah, M., Knitter, R., Gan, Y., van der Laan, J., Magielsen, L., Di Maio, P., Dell’Orco, G., Annabattula, R. Van Lew, J., Tanigawa, H., van Til, S. (2012) Status of ceramic breeder pebble bed thermo-mechanics R&D and impact on breeder material mechanical strength. Fusion Engineering and Design, 87(7), 1130-1137. (Invited) [PDF](/files/pubs/012_FED_2012.pdf)
 
-[12] Annabattula, R. K., Gan, Y., Kamlah, M. (2012) Mechanics of binary and polydisperse spherical pebble assembly. Fusion Engineering and Design, 87(5), 853-858. [PDF](/files/_pubs/012_FED_2012.pdf)
+[12] Annabattula, R. K., Gan, Y., Kamlah, M. (2012) Mechanics of binary and polydisperse spherical pebble assembly. Fusion Engineering and Design, 87(5), 853-858. [PDF](/files/pubs/012_FED_2012.pdf)
 
-[11] Zhao, S., Gan, Y., Kamlah, M. (2012) Spherical ceramic pebbles subjected to multiple non-concentrated surface loads. International Journal of Solids and Structures, 49(3-4), 658-671. [PDF](/files/_pubs/011_IJSS_2012.pdf)
+[11] Zhao, S., Gan, Y., Kamlah, M. (2012) Spherical ceramic pebbles subjected to multiple non-concentrated surface loads. International Journal of Solids and Structures, 49(3-4), 658-671. [PDF](/files/pubs/011_IJSS_2012.pdf)
 
 
 
-[10]* Gan, Y., Kamlah, M., Riesch-Oppermann, H., Rolli, R., Liu, P. (2011) Crush probability analysis of ceramic breeder pebble beds under mechanical stresses. Journal of Nuclear Materials, 417(1), 706-709. [DPDF](/files/_pubs/010_JNM_2011.pdf)
+[10]* Gan, Y., Kamlah, M., Riesch-Oppermann, H., Rolli, R., Liu, P. (2011) Crush probability analysis of ceramic breeder pebble beds under mechanical stresses. Journal of Nuclear Materials, 417(1), 706-709. [DPDF](/files/pubs/010_JNM_2011.pdf)
 
-[9]* Gan, Y., Kamlah, M., Reimann, J. (2010) Computer simulation of packing structure in pebble beds. Fusion Engineering and Design, 85(10), 1782-1787. [PDF](/files/_pubs/009_FED_2010.pdf)
+[9]* Gan, Y., Kamlah, M., Reimann, J. (2010) Computer simulation of packing structure in pebble beds. Fusion Engineering and Design, 85(10), 1782-1787. [PDF](/files/pubs/009_FED_2010.pdf)
 
-[8]* Gan, Y., Kamlah, M. (2010) Discrete element modelling of pebble beds: with application to uniaxial compression tests of ceramic breeder pebble beds. Journal of the Mechanics and Physics of Solids, 58(2), 129-144. [PDF](/files/_pubs/008_JMPS_2010.pdf)
+[8]* Gan, Y., Kamlah, M. (2010) Discrete element modelling of pebble beds: with application to uniaxial compression tests of ceramic breeder pebble beds. Journal of the Mechanics and Physics of Solids, 58(2), 129-144. [PDF](/files/pubs/008_JMPS_2010.pdf)
 
-[7]* Gan, Y., Kamlah, M. (2010) Thermo-mechanical modelling of pebble bed–wall interfaces. Fusion Engineering and Design, 85(1), 24-32. [PDF](/files/_pubs/007_FED_2010.pdf)
+[7]* Gan, Y., Kamlah, M. (2010) Thermo-mechanical modelling of pebble bed–wall interfaces. Fusion Engineering and Design, 85(1), 24-32. [PDF](/files/pubs/007_FED_2010.pdf)
 
-[6] Rupert, T. J., Gianola, D. S., Gan, Y., Hemker, K. J. (2009) Experimental observations of stress-driven grain boundary migration. Science, 326(5960), 1686-1690. [PDF](/files/_pubs/006_Science_2009.pdf), [Supplement materials](/files/_pubs/006_Science_2009_suppl.pdf)
+[6] Rupert, T. J., Gianola, D. S., Gan, Y., Hemker, K. J. (2009) Experimental observations of stress-driven grain boundary migration. Science, 326(5960), 1686-1690. [PDF](/files/pubs/006_Science_2009.pdf), [Supplement materials](/files/pubs/006_Science_2009_suppl.pdf)
 
-[5]* Gan, Y., Kamlah, M. (2009) Thermo-mechanical analyses of HELICA and HEXCALIBER mock-ups. Journal of Nuclear Materials, 386, 1060-1064. [PDF](/files/_pubs/005_JNM_2009.pdf)
+[5]* Gan, Y., Kamlah, M. (2009) Thermo-mechanical analyses of HELICA and HEXCALIBER mock-ups. Journal of Nuclear Materials, 386, 1060-1064. [PDF](/files/pubs/005_JNM_2009.pdf)
 
-[4]* Gan, Y., Kamlah, M. (2008) Thermo-mechanical analysis of pebble beds in HELICA mock-up experiments. Fusion Engineering and Design, 83(7), 1313-1316. [PDF](/files/_pubs/004_FED_2008.pdf)
+[4]* Gan, Y., Kamlah, M. (2008) Thermo-mechanical analysis of pebble beds in HELICA mock-up experiments. Fusion Engineering and Design, 83(7), 1313-1316. [PDF](/files/pubs/004_FED_2008.pdf)
 
-[3]* Gan, Y. (2008) Thermo-Mechanics of Pebble Beds in Fusion Blankets.Wissenschaftliche Berichte FZKA, 7455. PhD Thesis [PDF](/files/_pubs/003_FZKA7455_2008.pdf)
+[3]* Gan, Y. (2008) Thermo-Mechanics of Pebble Beds in Fusion Blankets.Wissenschaftliche Berichte FZKA, 7455. PhD Thesis [PDF](/files/pubs/003_FZKA7455_2008.pdf)
 
-[2]* Gan, Y., Kamlah, M. (2007) Identification of material parameters of a thermo-mechanical model for pebble beds in fusion blankets. Fusion Engineering and Design, 82(2), 189-206. [PDF](/files/_pubs/002_FED_2007.pdf)
+[2]* Gan, Y., Kamlah, M. (2007) Identification of material parameters of a thermo-mechanical model for pebble beds in fusion blankets. Fusion Engineering and Design, 82(2), 189-206. [PDF](/files/pubs/002_FED_2007.pdf)
 
-[1]* Gan, Y. X., Chen, C., Shen, Y. P. (2005) Three-dimensional modeling of the mechanical property of linearly elastic open cell foams. International Journal of Solids and Structures, 42(26), 6628-6642. [PDF](/files/_pubs/001_IJSS_2005.pdf)
+[1]* Gan, Y. X., Chen, C., Shen, Y. P. (2005) Three-dimensional modeling of the mechanical property of linearly elastic open cell foams. International Journal of Solids and Structures, 42(26), 6628-6642. [PDF](/files/pubs/001_IJSS_2005.pdf)
 
 
 *: Items with an asterisk indicate acting as the first/corresponding author, or with the first author being my supervised postdoc, student or visiting student.
