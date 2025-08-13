@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-AU"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Yixiang Gan / Research Group Webpage"
+title                    : "Yixiang Gan / Research Group"
 title_separator          : "-"
 name                     : &name "Yixiang Gan"
-description              : &description "Research Group Website"
+description              : &description "Research Group of Dr Yixiang Gan"
 url                      : https://drgan.net # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #URL to your repository
