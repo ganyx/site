@@ -15,6 +15,22 @@ author_profile: true
 
 ### 2025
 
+[175] Liu, Q., Wei, D., & Gan, Y. (2025). Mesoscale Modelling of Triaxial Concrete Fracture: The Role of Aggregate Shapes. International Journal of Mechanical Sciences, 110570. [PDF](/files/pubs/175_IJMS_2025.pdf)
+
+[174] Nair, S. G., Nguyen, Q. D., Zhu, Q., Karimi, M., Gan, Y., Zhong, H., Castel, A., Irga, P., Gravina da Rocha, C., Wilkinson, S., Moreau, D. & Delhomme, F. (2025). Low-carbon calcined clay-based binders for sustainable hempcrete. Materials and Structures, 58(6), 204. [PDF](/files/pubs/174_MS_2025.pdf)
+
+[173]* Zhou, L., Liang, H., Wei, D., & Gan, Y. (2025). Thermal performance of CO2 energy piles: A comparison with water. Deep Resources Engineering, 2(1), 100169. [PDF](/files/pubs/173_DRE_2025.pdf)
+
+[172]* Chen, Y., Wei, D., Suo, S., Dong, M., & Gan, Y. (2025). Nearly complete segregation of submerged grains in a rotating drum. Physical Review Fluids, 10(6), 064304. [PDF](/files/pubs/172_PRF_2025.pdf)
+
+[171]* Chen, D., Zhong, H., Wang, Z., Suo, S., Wei, D., & Gan, Y. (2025). Modelling spontaneous droplet transport in deformable divergent channels. Capillarity, 15(1), 4-11. [PDF](/files/pubs/171_Capillarity_2025.pdf)
+
+[170] Zhao, H., Gan, Y., Qu, F., Tang, Z., Peng, S., Chen, Y., & Li, W. (2025). Nano-and micro-characterisation on the heterogeneity of ITZs in recycled lump concrete. Cement and Concrete Composites, 161, 106078. [PDF](/files/pubs/170_CCC_2025.pdf)
+
+[169] Nair, S. G., Nguyen, Q. D., Zhu, Q., Karimi, M., Gan, Y., Wang, X., Castel, A., Irga, P., Gravina da Rocha, C., Wilkinson, S., Moreau, D & Delhomme, F. (2025). Suitability of calcined clay and ground granulated blast furnace slag geopolymer binder for hempcrete applications. Built Environment Project and Asset Management. [PDF](/files/pubs/169_BEPAM_2025.pdf)
+
+[168] Jaggannagari, S. R., Gan, Y., & Annabattula, R. K. (2025). A comparative study of JKR and DMT contact models for the DEM simulation of powder spreading in additive manufacturing. Computational Particle Mechanics, 1-17. [PDF](/files/pubs/168_CPM_2025.pdf)
+
 [167]* Zhong, H., Wang, Z., Suo, S., Mamizadeh Janghour, L., Akhavan, B., & Gan, Y. (2025). Tunable Spontaneous Droplet Motion in Flexible Channels. Langmuir, 41, 7355−7363. [PDF](/files/pubs/167_Langmuir_2025.pdf), [Sppl. Cover](/files/pubs/167_Langmuir_Cover.jpg)
 
 [166] Ji, S., Nguyen, Q. D., Gan, Y., & Lei, C. (2025). A numerical study of blockage and inclination effects on natural convection in a uniformly heated air flow channel. International Journal of Thermal Sciences, 212, 109783. [PDF](/files/pubs/166_IJTS_2025.pdf)
@@ -28,7 +44,7 @@ author_profile: true
 
 ### 2024
 
-[162]* Wang, X., Zhai, C., & Gan, Y. (2024). Effective Permittivity of Compacted Granular Materials: Effects of Interfacial Polarization and Pore-filling Fluids. Theoretical and Applied Mechanics Letters, 14, 100525. [PDF](/files/pubs/162_TAML_2025.pdf)
+[162]* Wang, X., Zhai, C., & Gan, Y. (2024). Effective Permittivity of Compacted Granular Materials: Effects of Interfacial Polarization and Pore-filling Fluids. Theoretical and Applied Mechanics Letters, 14, 100525. [PDF](/files/pubs/162_TAML_2024.pdf)
 
 [161]* Chen, Y., Suo, S., Dong, M., Zhong, H., Wei, D., & Gan, Y. (2024). Effects of particle density and fluid properties on mono-dispersed granular flows in a rotating drum. Physics of Fluids, 36(10). [PDF](/files/pubs/161_PoF_2024.pdf)
 
