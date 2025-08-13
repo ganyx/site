@@ -41,7 +41,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=15757222100" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "drgan" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

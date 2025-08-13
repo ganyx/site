@@ -15,7 +15,7 @@ author_profile: true
 
 ### 2025
 
-[175] Liu, Q., Wei, D., & Gan, Y. (2025). Mesoscale Modelling of Triaxial Concrete Fracture: The Role of Aggregate Shapes. International Journal of Mechanical Sciences, 110570. [PDF](/files/pubs/175_IJMS_2025.pdf)
+[175]* Liu, Q., Wei, D., & Gan, Y. (2025). Mesoscale Modelling of Triaxial Concrete Fracture: The Role of Aggregate Shapes. International Journal of Mechanical Sciences, 110570. [PDF](/files/pubs/175_IJMS_2025.pdf)
 
 [174] Nair, S. G., Nguyen, Q. D., Zhu, Q., Karimi, M., Gan, Y., Zhong, H., Castel, A., Irga, P., Gravina da Rocha, C., Wilkinson, S., Moreau, D. & Delhomme, F. (2025). Low-carbon calcined clay-based binders for sustainable hempcrete. Materials and Structures, 58(6), 204. [PDF](/files/pubs/174_MS_2025.pdf)
 
@@ -27,7 +27,7 @@ author_profile: true
 
 [170] Zhao, H., Gan, Y., Qu, F., Tang, Z., Peng, S., Chen, Y., & Li, W. (2025). Nano-and micro-characterisation on the heterogeneity of ITZs in recycled lump concrete. Cement and Concrete Composites, 161, 106078. [PDF](/files/pubs/170_CCC_2025.pdf)
 
-[169] Nair, S. G., Nguyen, Q. D., Zhu, Q., Karimi, M., Gan, Y., Wang, X., Castel, A., Irga, P., Gravina da Rocha, C., Wilkinson, S., Moreau, D & Delhomme, F. (2025). Suitability of calcined clay and ground granulated blast furnace slag geopolymer binder for hempcrete applications. Built Environment Project and Asset Management. [PDF](/files/pubs/169_BEPAM_2025.pdf)
+[169] Nair, S. G., Nguyen, Q. D., Zhu, Q., Karimi, M., Gan, Y., Wang, X., Castel, A., Irga, P., Gravina da Rocha, C., Wilkinson, S., Moreau, D & Delhomme, F. (2025). Suitability of calcined clay and ground granulated blast furnace slag geopolymer binder for hempcrete applications. Built Environment Project and Asset Management, 2025(2). [PDF](/files/pubs/169_BEPAM_2025.pdf)
 
 [168] Jaggannagari, S. R., Gan, Y., & Annabattula, R. K. (2025). A comparative study of JKR and DMT contact models for the DEM simulation of powder spreading in additive manufacturing. Computational Particle Mechanics, 1-17. [PDF](/files/pubs/168_CPM_2025.pdf)
 
