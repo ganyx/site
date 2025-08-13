@@ -368,7 +368,7 @@ author_profile: true
 
 
 
-[10]* Gan, Y., Kamlah, M., Riesch-Oppermann, H., Rolli, R., Liu, P. (2011) Crush probability analysis of ceramic breeder pebble beds under mechanical stresses. Journal of Nuclear Materials, 417(1), 706-709. [DPDF](/files/pubs/010_JNM_2011.pdf)
+[10]* Gan, Y., Kamlah, M., Riesch-Oppermann, H., Rolli, R., Liu, P. (2011) Crush probability analysis of ceramic breeder pebble beds under mechanical stresses. Journal of Nuclear Materials, 417(1), 706-709. [PDF](/files/pubs/010_JNM_2011.pdf)
 
 [9]* Gan, Y., Kamlah, M., Reimann, J. (2010) Computer simulation of packing structure in pebble beds. Fusion Engineering and Design, 85(10), 1782-1787. [PDF](/files/pubs/009_FED_2010.pdf)
 
