@@ -15,7 +15,7 @@ main:
     url: /cv/
 
   - title: "News"
-    url: /year-archive/
+    url: /news/
 
   - title: "Talks"
     url: /talks/    
