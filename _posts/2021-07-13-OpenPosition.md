@@ -7,10 +7,9 @@ tags:
   - PhD
   - low emission building materials
 ---
+![](/images/posts/Hempcrete-768x258.png)
 
 This PhD project will focus on the thermal and mechanical characterisation of low emission building materials. One full-time PhD scholarship will be offered for conduction this research project under the joint supervision of A/Prof Yixiang Gan (The University of Sydney) and Professor Arnaud Castel (University of Technology Sydney). The candidate will work within a multi-disciplinary research team across several leading universities in Sydney.
-
-![](/images/posts/Hempcrete-768x258.png)
 
 The PhD stipend for full-time students is offered at **$35,629 per annum for 3.5 years**.
 
