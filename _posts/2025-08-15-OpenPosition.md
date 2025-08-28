@@ -1,5 +1,5 @@
 ---
-title: 'Open position: PhD Scholarship in Low Emission Building Materials'
+title: 'Open position: PhD Scholarship in Underground Hydrogen Storage'
 date: 2025-08-13
 permalink: /posts/2025/08/15-1/
 tags:

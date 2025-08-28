@@ -14,6 +14,7 @@ author_profile: true
 ### In press and preprints
 
 ### 2025
+[176] Cheng, Z., Dias-da-Costa, D., Gan, Y., Jiang, S., & Shen, L. (2025). Performance and feasibility assessment of near-isothermal compressed air energy storage in aquifers. Journal of Cleaner Production, 523, 146447. [PDF](/files/pubs/176_JCP_2025.pdf)
 
 [175]* Liu, Q., Wei, D., & Gan, Y. (2025). Mesoscale Modelling of Triaxial Concrete Fracture: The Role of Aggregate Shapes. International Journal of Mechanical Sciences, 110570. [PDF](/files/pubs/175_IJMS_2025.pdf)
 
